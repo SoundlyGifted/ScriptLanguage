@@ -1,0 +1,14 @@
+# Printing some string
+print "Hi, Alexey!"
+
+# Performing "set" operations
+set $n1 = 21
+set $n2 = 121
+set $sum = ($n1 - ($n2 - 42)) * (4 - 42 / $n1)
+
+# Printing the script
+print
+print "You entered this script:"
+print "set $n1 = ", $n1
+print "set $n2 = ", $n2
+print "$sum = ", "($n1 - ($n2 - 42)) * (4 - 42 / $n1) = ", $sum
