@@ -68,6 +68,7 @@ local.properties
 build/
 nbbuild/
 dist/
+drafts/
 nbdist/
 nbactions.xml
 nb-configuration.xml
